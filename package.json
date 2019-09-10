@@ -1,10 +1,10 @@
 {
   "name": "First_node_experiment",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "dependencies": {
     "express": "^4.17.1",
+    "mongodb": "^3.3.2",
     "nodemon": "^1.19.2"
   },
   "devDependencies": {},
@@ -15,5 +15,14 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Robinsingh2025/Todo-database.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Robinsingh2025/Todo-database/issues"
+  },
+  "homepage": "https://github.com/Robinsingh2025/Todo-database#readme",
+  "description": ""
 }
